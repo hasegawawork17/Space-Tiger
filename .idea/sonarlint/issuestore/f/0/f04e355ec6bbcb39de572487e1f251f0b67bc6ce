@@ -1,0 +1,15 @@
+
+M
+java:S1066Ä"/Merge this if statement with the enclosing one.(şêÂ8—‚€‘Ñ1
+l	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÿïa8º·ÿÑ1
+l	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÿïa8º·ÿÑ1
+s	java:S116""RRename this field "MyPrefs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¨¼£şÿÿÿÿ8õ·ÿÑ1
+	java:S116*"dRename this field "REQUEST_CODE_FILE_CHOOSER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²®«t8õ·ÿÑ1
+=
+java:S1170*"!Make this final field static too.(²®«t8û·ÿÑ1
+e
+java:S5361x"HReplace this call to "replaceAll()" by a call to the "replace()" method.(…õú8˜¸ÿÑ1
+B
+java:S2129{" Remove this "String" constructor(ú±£©şÿÿÿÿ8›¸ÿÑ1
+]
+java:S1161":Add the "@Override" annotation above this method signature(ÍÑËèûÿÿÿÿ8 ¸ÿÑ1

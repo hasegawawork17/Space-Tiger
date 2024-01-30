@@ -1,0 +1,49 @@
+
+R
+java:S1066¡"/Merge this if statement with the enclosing one.(™ã†ãşÿÿÿÿ8ÆßÊÑ1
+l	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÿïa8ÆßÊÑ1
+l	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÿïa8ÆßÊÑ1
+s	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ãö üÿÿÿÿ8ÆßÊÑ1
+J
+java:S1604W"(Make this anonymous inner class a lambda(Ö±õ÷üÿÿÿÿ8ÇßÊÑ1
+E
+java:S1604e"(Make this anonymous inner class a lambda(ÓçòÀ8ÇßÊÑ1
+E
+java:S1604r"(Make this anonymous inner class a lambda(ÓçòÀ8ÇßÊÑ1
+E
+java:S1604"(Make this anonymous inner class a lambda(ıÙ58ÈßÊÑ1
+K
+java:S1604¶"(Make this anonymous inner class a lambda(îÚ‰‡úÿÿÿÿ8ÈßÊÑ1
+K
+java:S1604©"(Make this anonymous inner class a lambda(í‹öøÿÿÿÿ8ÈßÊÑ1
+[
+java:S3516E"9Refactor this method to not always return the same value.(¸ÄÉˆüÿÿÿÿ8÷ßÊÑ1
+	java:S1161"dRename this field "REQUEST_CODE_FILE_CHOOSER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²®«t8Ñ¿’Ñ1
+=
+java:S11701"!Make this final field static too.(²®«t8Ò¿’Ñ1
+]	java:S125I"<This block of commented-out lines of code should be removed.(ê†ùÿÿÿÿ8òÅŒÑ1
+Y	java:S125£"<This block of commented-out lines of code should be removed.(ÌÂ ™8˜àÊÑ1
+f
+java:S5361¤"HReplace this call to "replaceAll()" by a call to the "replace()" method.(…õú8˜àÊÑ1
+O
+java:S1172Æ"1Remove this unused method parameter "acceptType".(Øß¿×8œàÊÑ1
+a
+java:S1172Ò">Remove these unused method parameters "acceptType", "capture".(ÄÜ›ïûÿÿÿÿ8œàÊÑ1
+]
+java:S1161Ø":Add the "@Override" annotation above this method signature(ÍÑËèûÿÿÿÿ8àÊÑ1
+p
+java:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ŸŒ¹Ñ8¢àÊÑ1
+9
+java:S3626Ÿ"Remove this redundant jump.(ûÁİ…8¢àÊÑ1
+¤
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(º°Äÿÿÿÿÿ8¤àÊÑ1
+[
+java:S1128">Remove this unused import 'android.content.ContentValues.TAG'.(Ï‚óÈ8¥àÊÑ1
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8¯ÏÈÑ1
+^
+java:S1128"<Remove this unused import 'android.webkit.WebResourceError'.(Ã´Çíüÿÿÿÿ8¥àÊÑ1
+_
+java:S1128""=Remove this unused import 'org.greenrobot.eventbus.EventBus'.(¾·é›şÿÿÿÿ8¥àÊÑ1
+K
+java:S1128&".Remove this unused import 'java.util.Objects'.(¼¸õ›8¥àÊÑ1

@@ -1,0 +1,11 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(˜å¾úÿÿÿÿ
+n	java:S116"YRename this field "StartGameAgain" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÙĞ£
+q	java:S116"WRename this field "DisplayScore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÈÊîúÿÿÿÿ
+v
+java:S1450"[Remove the "DisplayScore" field and declare it as a local variable in the relevant methods.(çÈÊîúÿÿÿÿ
+s
+java:S1450"]Remove the "StartGameAgain" field and declare it as a local variable in the relevant methods.(ÎÙĞ£
+j
+java:S1450"TRemove the "score" field and declare it as a local variable in the relevant methods.(‘Ïèç

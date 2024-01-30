@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+
+button:disabled {
+    background-color: #b0b0b0;
+    cursor: not-allowed;
+}
+
+body {
+    font-family: 'Exo', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    background-image: url('spacefinal.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #000000;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+section {
+    max-width: 230px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    border-bottom: 2px solid #8E1E1D;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    color: #8E1E1D;
+}
+
+p {
+    line-height: 1.6;
+}
+
+label {
+    display: block;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+input[type="checkbox"] {conditionCheckbox
+
+   text-indent: 5px;
+   background-color: #0075FF;
+    margin-right: 10px;
+  width:49px;
+  height:49px;
+  outline: 5px solid #000000;
+}
+
+button {
+
+    background-color: #00b536;
+    color: #000000;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+#dismissbtn:hover {
+    background-color: #e40303;
+}
+#dismissbtn{
+background-color: #db5c69
+}
+button:hover {
+    background-color: #00b536;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+u {
+    color: #000000;
+}
+
+a.policy-link {
+    color: #0365a6;
+    text-decoration: none;
+    font-weight: bold
+    font-size: 15px;
+}
+
+a.policy-link:hover {
+    text-decoration: underline;
+}

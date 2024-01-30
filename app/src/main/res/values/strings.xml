@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Space Tiger</string>
+    <string name="facebook_app_id">3614434595539190</string>
+    <string name="facebook_client_token">5f99055485a96397e846282d74960dce</string>
+    <string name="web_access_for_html_data_consent">Web Access for HTML Data Consent</string>
+
+</resources>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="policy.css">
+    <title>Space Tiger: User Consent</title>
+</head>
+
+<body class="center">
+
+<header>
+    Space Tiger: USER CONSENT
+</header>
+
+<section>
+    <h2>End User Agreement</h2>
+    <p> Users are consenting to the collection and use of their data as described in the
+        Data Policy. This includes the specific types of data collected, the purposes for
+        using it, and the parties with whom it may be shared.
+        By agreeing, you also confirm that you are warranting us to collect these data
+        from you. If you think that your data privacy is at risk, you have the rights to
+        uninstall this app. If you have questions regarding the data, we collection, you
+        can message us via <u>aga42341@gmail.com</u>.</p>
+</section>
+    <form action="#" method="post" id="consentForm">
+        <label for="privacyCheckbox">
+            <input type="checkbox" id="privacyCheckbox" name="privacyCheckbox" onclick="checkRadio()" required>
+            I have read and agree to the <u> <b><a href="policy.html">Data and Privacy Policy</a></b></u>.
+        </label>
+
+        <label for="conditionCheckbox">
+            <input type="checkbox" id="conditionCheckbox" name="conditionCheckbox" onclick="checkRadio()" required>
+            I have read and agree to the <u> <b><a href="terms.html">Terms and Conditions</a></b></u>.
+        </label>
+
+        <button style="font-size: 30px;" type="button" id="continuebtn" onclick="checkSubmit()" disabled>Continue to Space Tiger</button>
+        <button style="font-size: 30px;" type="button" id="dismissbtn" onclick="checkDismiss()" >Disagree and Quit</button>
+    </form>
+</body>
+
+<script src="policy.js"></script>
+
+</html>
